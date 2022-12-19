@@ -2,8 +2,8 @@
 Completed projects after completing courses on the portal : https://www.youtube.com/@theswiftdevelopers1301
 
 ## Table of contents
-1. [Project 1 - Alert,ActionSheet.](#Project-1---Alert,ActionSheet.-)
-2. [Project 2 - Toogle.](#Project-2-Toogle.)
+1. [Project 1 - Alert,ActionSheet.](#Alert,ActionSheet)
+2. [Project 2 - Toogle.](#Toogle)
 3. [Project 3 - Picker.](#Project-3-Picker.)
 4. [Project 4 - Slider(Auidio Player).](#Project-4-Slider(Auidio-Player).)
 5. [Project 5 - Segment(Sneakers Store).](#Project-5-Segment(Sneakers-Store).)
@@ -14,13 +14,13 @@ Completed projects after completing courses on the portal : https://www.youtube.
 10. [Project 10 - TextField.](#Project-10-TextField.)
 ## 
 
-### Project 1 - Alert,ActionSheet.
+### Alert,ActionSheet
 
 Alert,ActionSheet,Text,Button,@State.
 
 <img width="300" src="https://user-images.githubusercontent.com/110721351/208511472-126f70d5-6943-440e-956c-0b87f4a04874.gif">
 
-### Project 2 - Toogle.
+### Toogle
 
 Toogle,ZStack,VStack,HStack,Text.
 
