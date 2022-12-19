@@ -18,7 +18,27 @@ Picker,NavigationView,Text.
 Slider,@Published,@ObservedObject,VStack,HStack,Button,Text.
 
 
-### Project 5 - Segment(Sneakers Store.
+### Project 5 - Segment(Sneakers Store).
 
 Segment,Image,Picker,VStack,ZStack,Text.
+
+### Project 6 - ActivityView.
+
+ActivityView,@State.
+
+### Project 7 - NavigationView.
+
+NavigationView,NavigationLink,@Environment,@EnvironmentObject,@ObservedObject,VStack,Button,Text.
+
+### Project 8 - TabView.
+
+TabView,@Binding,ZStack,Button,Text.
+
+### Project 9 - Text.
+
+Text all functions.
+
+### Project 10 - TextField.
+
+TextField,ViewModifier,@FocusState,Button.
 
