@@ -5,19 +5,25 @@ Completed projects after completing courses on the portal : https://www.youtube.
 
 Alert,ActionSheet,Text,Button,@State.
 
+<img width="300" src="https://user-images.githubusercontent.com/110721351/208511472-126f70d5-6943-440e-956c-0b87f4a04874.gif">
+
 ### Project 2 - Toogle.
 
 Toogle,ZStack,VStack,HStack,Text.
+
+<img width="300" src="https://user-images.githubusercontent.com/110721351/208510594-be64f68b-c01c-4ed5-b72a-aa4e70b280a4.gif">
 
 ### Project 3 - Picker.
 
 Picker,NavigationView,Text.
 
+<img width="300" src="https://user-images.githubusercontent.com/110721351/208510051-496477de-6753-4e05-a816-92e74a132162.gif">
+
 ### Project 4 - Slider(Auidio Player).
 
 Slider,@Published,@ObservedObject,VStack,HStack,Button,Text.
 
-<img width="300" src="https://user-images.githubusercontent.com/110721351/208510051-496477de-6753-4e05-a816-92e74a132162.gif">
+<img width="300" src="https://user-images.githubusercontent.com/110721351/208511111-1da38c1d-6a21-4921-80b9-bc848f77c4aa.gif">
 
 ### Project 5 - Segment(Sneakers Store).
 
