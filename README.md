@@ -1,6 +1,18 @@
 # SwiftUI-The-Swift-Developers-
 Completed projects after completing courses on the portal : https://www.youtube.com/@theswiftdevelopers1301
 
+1. [UIKit](#Project-1 - Alert.)
+2. [My first projects](#Project-2 - Toogle.)
+3. [Working with the API](#Project-3 - Picker.)
+4. [Networking](#Project 4 - Slider(Auidio-Player). )
+5. [MVVM](#Project-5 - Segment(Sneakers-Store).)
+6. [The basics CoredData Framework](#Project 6 - ActivityView.)
+7. [The basics Grand Central Dispatch Framework](#Project-7 - NavigationView.)
+8. [The basics Grand Central Dispatch Framework](#Project 8 - TabView.)
+9. [The basics Grand Central Dispatch Framework](#Project 9 - Text.)
+10. [The basics Grand Central Dispatch Framework](#Project 10 - TextField.)
+## 
+
 ### Project 1 - Alert.
 
 Alert,ActionSheet,Text,Button,@State.
@@ -54,7 +66,6 @@ TabView,@Binding,ZStack,Button,Text.
 Text all functions.
 
 <img width="300" alt="Снимок экрана 2022-12-19 в 19 40 27" src="https://user-images.githubusercontent.com/110721351/208463732-ec69157a-4186-4397-b400-0c2030973384.png">
-
 
 ### Project 10 - TextField.
 
