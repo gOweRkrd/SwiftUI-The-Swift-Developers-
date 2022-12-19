@@ -14,7 +14,7 @@ Completed projects after completing courses on the portal : https://www.youtube.
 10. [Project 10 - TextField.](#TextField)
 ## 
 
-### Alert
+### ```Alert```
 
 Alert,ActionSheet,Text,Button,@State.
 
@@ -24,7 +24,7 @@ ____
 [:arrow_up:Table of contents](#Table-of-contents)
 ___
 
-### Toogle
+### ```Toogle```
 
 Toogle,ZStack,VStack,HStack,Text.
 
@@ -35,7 +35,7 @@ ____
 ___
 
 
-### Picker
+### ```Picker```
 
 Picker,NavigationView,Text.
 
@@ -46,7 +46,7 @@ ____
 ___
 
 
-### Slider
+### ```Slider```
 
 Slider,@Published,@ObservedObject,VStack,HStack,Button,Text.
 
@@ -57,7 +57,7 @@ ____
 ___
 
 
-### Segment
+### ```Segment```
 
 Segment,Image,Picker,VStack,ZStack,Text.
 
@@ -68,7 +68,7 @@ ____
 ___
 
 
-### ActivityView
+### ```ActivityView```
 
 ActivityView,@State.
 
@@ -79,7 +79,7 @@ ____
 ___
 
 
-### NavigationView
+### ```NavigationView```
 
 NavigationView,NavigationLink,@Environment,@EnvironmentObject,@ObservedObject,VStack,Button,Text.
 
@@ -90,7 +90,7 @@ ____
 ___
 
 
-### TabView
+### ```TabView```
 
 TabView,@Binding,ZStack,Button,Text.
 
@@ -101,7 +101,7 @@ ____
 ___
 
 
-### Text
+### ```Text```
 
 Text all functions.
 
@@ -112,7 +112,7 @@ ____
 ___
 
 
-### TextField
+### ```TextField```
 
 TextField,ViewModifier,@FocusState,Button.
 
@@ -120,7 +120,7 @@ TextField,ViewModifier,@FocusState,Button.
 
 ____
 [:arrow_up:Table of contents](#Table-of-contents)
-___
+___ 
 
 
 
