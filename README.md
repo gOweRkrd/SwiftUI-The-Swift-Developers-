@@ -2,7 +2,7 @@
 Completed projects after completing courses on the portal : https://www.youtube.com/@theswiftdevelopers1301
 
 ## Table of contents
-1. [Project 1 - Alert,ActionSheet.](#Alert,ActionSheet)
+1. [Project 1 - Alert,ActionSheet.](#Alert-,-ActionSheet)
 2. [Project 2 - Toogle.](#Toogle)
 3. [Project 3 - Picker.](#Project-3-Picker.)
 4. [Project 4 - Slider(Auidio Player).](#Project-4-Slider(Auidio-Player).)
