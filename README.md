@@ -2,19 +2,19 @@
 Completed projects after completing courses on the portal : https://www.youtube.com/@theswiftdevelopers1301
 
 ## Table of contents
-1. [Project 1 - Alert,ActionSheet.](#Alert-,-ActionSheet)
+1. [Project 1 - Alert,ActionSheet.](#Alert)
 2. [Project 2 - Toogle.](#Toogle)
-3. [Project 3 - Picker.](#Project-3-Picker.)
-4. [Project 4 - Slider(Auidio Player).](#Project-4-Slider(Auidio-Player).)
-5. [Project 5 - Segment(Sneakers Store).](#Project-5-Segment(Sneakers-Store).)
-6. [Project 6 - ActivityView.](#Project-6-ActivityView.)
-7. [Project 7 - NavigationView.](#Project-7-NavigationView.)
-8. [Project 8 - TabView.](#Project-8-TabView.)
-9. [Project 9 - Text.](#Project-9-Text.)
-10. [Project 10 - TextField.](#Project-10-TextField.)
+3. [Project 3 - Picker.](#Picker)
+4. [Project 4 - Slider(Auidio Player).](#Slider)
+5. [Project 5 - Segment(Sneakers Store).](#Segment)
+6. [Project 6 - ActivityView.](#ActivityView)
+7. [Project 7 - NavigationView.](#NavigationView)
+8. [Project 8 - TabView.](#TabView)
+9. [Project 9 - Text.](#Text)
+10. [Project 10 - TextField.](#TextField)
 ## 
 
-### Alert,ActionSheet
+### Alert
 
 Alert,ActionSheet,Text,Button,@State.
 
@@ -26,49 +26,49 @@ Toogle,ZStack,VStack,HStack,Text.
 
 <img width="300" src="https://user-images.githubusercontent.com/110721351/208510594-be64f68b-c01c-4ed5-b72a-aa4e70b280a4.gif">
 
-### Project 3 - Picker.
+### Picker
 
 Picker,NavigationView,Text.
 
 <img width="300" src="https://user-images.githubusercontent.com/110721351/208510051-496477de-6753-4e05-a816-92e74a132162.gif">
 
-### Project 4 - Slider(Auidio Player).
+### Slider
 
 Slider,@Published,@ObservedObject,VStack,HStack,Button,Text.
 
 <img width="300" src="https://user-images.githubusercontent.com/110721351/208511111-1da38c1d-6a21-4921-80b9-bc848f77c4aa.gif">
 
-### Project 5 - Segment(Sneakers Store).
+### Segment
 
 Segment,Image,Picker,VStack,ZStack,Text.
 
 <img width="300" src="https://user-images.githubusercontent.com/110721351/208509792-50302d07-9e02-4e44-8af1-100ad8ae16c1.gif">
 
-### Project 6 - ActivityView.
+### ActivityView
 
 ActivityView,@State.
 
 <img width="300" src="https://user-images.githubusercontent.com/110721351/208465467-8acfb32e-b09f-4a38-9793-10b1d40fba10.gif">
 
-### Project 7 - NavigationView.
+### NavigationView
 
 NavigationView,NavigationLink,@Environment,@EnvironmentObject,@ObservedObject,VStack,Button,Text.
 
 <img width="300" src="https://user-images.githubusercontent.com/110721351/208464985-d2025986-f50c-4937-9a57-99f6b6d4841e.gif">
 
-### Project 8 - TabView.
+### TabView
 
 TabView,@Binding,ZStack,Button,Text.
 
 <img width="300" src="https://user-images.githubusercontent.com/110721351/208464112-19cc5a69-6dfc-441d-abc1-1805678682d7.gif">
 
-### Project 9 - Text.
+### Text
 
 Text all functions.
 
 <img width="300" alt="Снимок экрана 2022-12-19 в 19 40 27" src="https://user-images.githubusercontent.com/110721351/208463732-ec69157a-4186-4397-b400-0c2030973384.png">
 
-### Project 10 - TextField.
+### TextField
 
 TextField,ViewModifier,@FocusState,Button.
 
