@@ -26,13 +26,13 @@ Segment,Image,Picker,VStack,ZStack,Text.
 
 ActivityView,@State.
 
-<img width="300" src="https://user-images.githubusercontent.com/110721351/208464985-d2025986-f50c-4937-9a57-99f6b6d4841e.gif">
+<img width="300" src="https://user-images.githubusercontent.com/110721351/208465467-8acfb32e-b09f-4a38-9793-10b1d40fba10.gif">
 
 ### Project 7 - NavigationView.
 
 NavigationView,NavigationLink,@Environment,@EnvironmentObject,@ObservedObject,VStack,Button,Text.
 
-<img width="300" src="https://user-images.githubusercontent.com/110721351/208465467-8acfb32e-b09f-4a38-9793-10b1d40fba10.gif">
+<img width="300" src="https://user-images.githubusercontent.com/110721351/208464985-d2025986-f50c-4937-9a57-99f6b6d4841e.gif">
 
 ### Project 8 - TabView.
 
