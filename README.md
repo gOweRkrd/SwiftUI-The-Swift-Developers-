@@ -17,10 +17,13 @@ Picker,NavigationView,Text.
 
 Slider,@Published,@ObservedObject,VStack,HStack,Button,Text.
 
+<img width="300" src="https://user-images.githubusercontent.com/110721351/208510051-496477de-6753-4e05-a816-92e74a132162.gif">
 
 ### Project 5 - Segment(Sneakers Store).
 
 Segment,Image,Picker,VStack,ZStack,Text.
+
+<img width="300" src="https://user-images.githubusercontent.com/110721351/208509792-50302d07-9e02-4e44-8af1-100ad8ae16c1.gif">
 
 ### Project 6 - ActivityView.
 
